@@ -14,6 +14,7 @@
 		C4189C1529637954002B6684 /* SeaFood.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C4189C1329637954002B6684 /* SeaFood.xcdatamodeld */; };
 		C4189C1729637954002B6684 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4189C1629637954002B6684 /* Assets.xcassets */; };
 		C4189C1A29637954002B6684 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4189C1829637954002B6684 /* LaunchScreen.storyboard */; };
+		C4189C22296379C7002B6684 /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = C4189C21296379C7002B6684 /* Inceptionv3.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C4189C1629637954002B6684 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C4189C1929637954002B6684 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C4189C1B29637954002B6684 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4189C21296379C7002B6684 /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Inceptionv3.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				C4189C0A29637954002B6684 /* AppDelegate.swift */,
 				C4189C0C29637954002B6684 /* SceneDelegate.swift */,
 				C4189C0E29637954002B6684 /* ViewController.swift */,
+				C4189C21296379C7002B6684 /* Inceptionv3.mlmodel */,
 				C4189C1029637954002B6684 /* Main.storyboard */,
 				C4189C1629637954002B6684 /* Assets.xcassets */,
 				C4189C1829637954002B6684 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C4189C22296379C7002B6684 /* Inceptionv3.mlmodel in Sources */,
 				C4189C0F29637954002B6684 /* ViewController.swift in Sources */,
 				C4189C1529637954002B6684 /* SeaFood.xcdatamodeld in Sources */,
 				C4189C0B29637954002B6684 /* AppDelegate.swift in Sources */,
